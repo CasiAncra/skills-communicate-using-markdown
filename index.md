@@ -5,6 +5,11 @@
 ##### Header h5
 ###### Header h6 (no lo hay mas pequeño)
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
 ![Image of Yaktocat as example](https://octodex.github.com/images/yaktocat.png)
 
 ``` python
